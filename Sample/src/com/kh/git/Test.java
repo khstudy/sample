@@ -7,7 +7,9 @@ public class Test {
 		
 		System.out.print("내가 이 프로젝트에 기여해드릴께요");
 		
-		System.out.print("으라차차");		
+		System.out.print("으라차차");	
+		
+		System.out.println("아싸");
 	}
 
 }
