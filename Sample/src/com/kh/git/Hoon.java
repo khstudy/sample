@@ -1,5 +1,5 @@
 package com.kh.git;
 
-public class hoon {
+public class Hoon {
 
 }
